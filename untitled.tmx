@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.12.1" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="3">
+ <tileset firstgid="1" source="tile_map.tsx"/>
+ <tileset firstgid="257" source="player.tsx"/>
+ <layer id="1" name="ground" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJwLZGBgCBzFo3gUj+JRPIpH8SgexVTDAJ3Fvdk=
+  </data>
+ </layer>
+ <layer id="7" name="ground2" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAeWACxJQnqR8HgBzeA+CYQ36KzvS+A+CUQv8Ii9wSInxJpzjMgfk6CvT+A+CcQ/8Ii9wWIvxJpzjcg/k6CvaNgFIyCkQdwla+kllvogJB+XOUrpeUWIf34yteRCAD+PR+0
+  </data>
+ </layer>
+ <layer id="3" name="wall1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzdVNEKgzAMzK92urHXPQx9dup3r2ENFK13UYRhAwdp7pLQ0CaIyGMDt4hwgGMajT9B3gvwiGMajbcAiGe5SKPxTrZtOMgxzVBpX5Rb431R3yliTOdxgTnzl/xc0Hs0Fm8i7ilH/dK7Z7xXk+Nf1ke85be7JPkl9IAz3moEov3Iek6eGZ0xa/Sec2M6bx019o+u0HeP1XDfq/S1PcnAdN46tie/gq96aA==
+  </data>
+ </layer>
+ <layer id="4" name="wall2" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAeWACxJQnqaQ08gNiTCHU+RJqXSqYcITXE6B0Fo2AoASssYtZIbBss8l5ofG8cZmPLr9jsoydIZEB1L4ifjgXjEkeWJ2QGDCcBcTKaO9D5hMSJlUcGo+XVKBgF1AEA1kgQ1w==
+  </data>
+ </layer>
+ <objectgroup id="2" name="Object Layer 1">
+  <object id="1" gid="257" x="26" y="77.6667" width="20" height="26">
+   <properties>
+    <property name="propClass" type="class" propertytype="prop"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <layer id="6" name="furniture" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg+IA6I46lgzlIgXobE3wfF/EAsgEV9HhDnQ9mPgPgxmvxDIuwMBuKtQLwNSewcFMsDsQIQ2wGxA5J8HRDXQ9mfgPgzmpkfibAXH9AHYgMg9gPiACTxPiDup9DsUTAKRgEmQC/D5gHxfCBegCR2AErPAeK5SOIHoTR6GbQPiz370MRhZRisjFsHxOuBeAOSmgtQeg0Qr0USvwil0cugc1jsPYcmDivDYGUcvQCsDIOVcaCy1Z4BtXylBwCVrf4MqOXrKBg+AADvuiky
+  </data>
+ </layer>
+ <layer id="8" name="furniture2" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBi+4BCNzN1DQP4Sjew9QyNzR8EoGAXUBzFAHDsA9uYAce4A2EsNsAeNphc4g0bTCySg0fQCBWj0KKANAACQzwlf
+  </data>
+ </layer>
+</map>

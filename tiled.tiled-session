@@ -1,0 +1,107 @@
+{
+    "activeFile": "assets/maps/untitled.tmx",
+    "expandedProjectPaths": [
+        "assets",
+        ".",
+        "assets/maps"
+    ],
+    "fileStates": {
+        "C:/Users/USER/Downloads/horror_house.tmx": {
+            "scale": 1.2033333333333331,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.9445983379502,
+                "y": 121.74515235457066
+            }
+        },
+        "C:/Users/USER/Downloads/horror_house.tmx#Tileset_Large": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "C:/Users/USER/Downloads/horror_house_1.tmx": {
+            "scale": 1.2033333333333331,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 319.94459833795025,
+                "y": 240.16620498614967
+            }
+        },
+        "C:/Users/USER/Downloads/horror_house_1.tmx#Tileset_Large": {
+            "scaleInDock": 1
+        },
+        "assets/maps/player.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "assets/maps/tile_map.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "assets/maps/untitled.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 363,
+                "y": 128.66666666666669
+            }
+        },
+        "assets/player.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "assets/tile_map.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "assets/untitled.tmx": {
+            "expandedObjectLayers": [
+                9
+            ],
+            "scale": 2.2898958333333335,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 237.12869035163533,
+                "y": 160.05094846017374
+            }
+        },
+        "player.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tile_map.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 240.33333333333331,
+                "y": 65
+            }
+        }
+    },
+    "last.imagePath": "D:/a13/paranormal_hunter/assets/maps",
+    "openFiles": [
+        "untitled.tmx",
+        "player.tsx",
+        "C:/Users/USER/Downloads/horror_house.tmx",
+        "assets/untitled.tmx",
+        "assets/maps/untitled.tmx"
+    ],
+    "project": "tiled.tiled-project",
+    "property.type": "prop",
+    "recentFiles": [
+        "untitled.tmx",
+        "player.tsx",
+        "C:/Users/USER/Downloads/horror_house.tmx",
+        "assets/untitled.tmx",
+        "assets/maps/untitled.tmx",
+        "tile_map.tsx"
+    ]
+}
